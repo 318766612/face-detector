@@ -1,0 +1,18 @@
+{
+    "name": "FaceDetector",
+    "rootNamespace": "",
+    "references": [
+        "GUID:41c681fd50d45474baa3849629cd7f0f",
+        "GUID:b4eac0e37615671478e07f1f77458f98",
+        "GUID:99598436dfca0e54ab65f7efae78091a"
+    ],
+    "includePlatforms": [],
+    "excludePlatforms": [],
+    "allowUnsafeCode": false,
+    "overrideReferences": false,
+    "precompiledReferences": [],
+    "autoReferenced": true,
+    "defineConstraints": [],
+    "versionDefines": [],
+    "noEngineReferences": false
+}
